@@ -639,7 +639,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
+
 h2,
 h3,
 h4,
@@ -707,6 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    text-align: center;
 }
 
 h3 {
@@ -724,7 +725,8 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #F3976C;
+    text-align: center;
 }
 
 h4 {
